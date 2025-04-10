@@ -5,7 +5,8 @@ The goal of this project is to showcase my background, projects, and skills as a
 
 ## 🔥 Live Demo
 Visit the deployed version here:  
-👉 https://randisihombing.github.io/portfolio
+👉 https://randisihombing.github.io/portfolio/
+
 
 ## 🧑‍💻 About Me
 I’m a mobile developer passionate about building scalable and elegant mobile apps using Flutter.  
