@@ -5,9 +5,7 @@ The goal of this project is to showcase my background, projects, and skills as a
 
 ## 🔥 Live Demo
 Visit the deployed version here:  
-👉 https://<your-username>.github.io/portfolio
-
-> ⚠️ Replace `<your-username>` with your GitHub username.
+👉 https://randisihombing.github.io/portfolio
 
 ## 🧑‍💻 About Me
 I’m a mobile developer passionate about building scalable and elegant mobile apps using Flutter.  
@@ -30,4 +28,4 @@ application development, I’ve worked on healthcare and fintech apps, and I’m
 ## 🚀 Setup Instructions
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/portfolio.git
+   git clone https://github.com/randisihombing/portfolio.git
